@@ -1,5 +1,7 @@
 # Assignment Submission
 
+### Jack Cassidy
+
 ## Project Selected: <Enter project name>
 
 ## I. Introduction
