@@ -35,6 +35,7 @@ In examples like Unit Testing, Regression Testing, Boundary Testing all has exam
 In examples like Randomized testing, database testing, api test is when dynamic test data would we used in pytest. Dynamic test data in pytest is used when the test cases require data the is generated or fetch at run time. 
 
 
+
 ## 3. Test Doubles
 - Identify and explain the use of test doubles (e.g., mocks, stubs, fakes) in the project.
 - Specify the specific components, functions, or cases where test doubles are applied.
