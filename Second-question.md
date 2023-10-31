@@ -1,4 +1,4 @@
-## Project Selected: <Enter project name>
+## Project Selected: PyTest
 
 ## I. Introduction
 - Provide an overview of the analysis, indicating the goal of describing the types of testing used in the selected open-source project and explaining the rationale behind their choice.
@@ -30,11 +30,10 @@
 
 ## 2. Test Data Generation
 ### A. Static Test Data
-- Explain if and how static test data is used in the project.
-- Provide examples of scenarios where static test data is employed.
+In examples like Unit Testing, Regression Testing, Boundary Testing all has examples of static testing data is being employed. Static test data is used when the test cases require predefined, fixed data that remains consistent across test runs. Static test data is typically defined within the test code or loaded from external sources and is not generated dynamically during test execution
 ### B. Dynamic Test Data
-- Explain if and how dynamic test data is used in the project.
-- Provide examples of scenarios where dynamic test data is generated.
+In examples like Randomized testing, database testing, api test is when dynamic test data would we used in pytest. Dynamic test data in pytest is used when the test cases require data the is generated or fetch at run time. 
+
 
 ## 3. Test Doubles
 - Identify and explain the use of test doubles (e.g., mocks, stubs, fakes) in the project.
