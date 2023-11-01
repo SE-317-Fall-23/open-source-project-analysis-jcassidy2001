@@ -38,6 +38,9 @@ In examples like Randomized testing, database testing, api test is when dynamic 
 
 
 
+
+
+
 ## 3. Test Doubles
 - Identify and explain the use of test doubles (e.g., mocks, stubs, fakes) in the project.
 - Specify the specific components, functions, or cases where test doubles are applied.
